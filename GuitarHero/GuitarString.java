@@ -1,9 +1,3 @@
-// Grace Zhang
-// 01/20/2021
-// CSE143
-// TA:  Melody Lam
-// Take-home Assessment #2
-// 
 // This program models a vibrating guitar string of a given frequency.
 
 import java.util.*;
