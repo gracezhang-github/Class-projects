@@ -1,9 +1,5 @@
 // Grace Zhang
 // 11/16/2020
-// CSE142
-// TA:  Shreyash Nigam
-// Take-home Assessment #6
-// 
 // This programs is able to interpet a YazLang file, and 
 // view the interpreted files if they enter the correct
 // input file names.
