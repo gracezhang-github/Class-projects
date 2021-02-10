@@ -1,9 +1,3 @@
-// Grace Zhang
-// 01/27/2021
-// CSE143
-// TA:  Melody Lam
-// Take-home Assessment #3
-// 
 // This program models the Assassin game, where this will keep track of 
 // who is stalking and killing whom
 
