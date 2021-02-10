@@ -1,10 +1,3 @@
-// 11/22/2020
-// CSE142
-// TA:  Shreyash Nigam
-// Take-home Assessment #7
-// 
-// Constructor - defines
-
 import java.util.*;
 import java.io.*;
 
