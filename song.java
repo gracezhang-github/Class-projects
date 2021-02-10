@@ -1,7 +1,3 @@
-// Grace Zhang
-// CSE142
-// Take-home Assessment #1
-// 
 // This program will produce the verses of the song 
 // "There was an old woman who swallowed a fly" with custom verse
 
