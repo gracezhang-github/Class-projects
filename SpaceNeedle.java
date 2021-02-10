@@ -1,4 +1,3 @@
-// Grace Zhang
 // CSE142
 // Take-home Assessment #2
 // 
