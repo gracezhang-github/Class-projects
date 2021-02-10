@@ -1,9 +1,3 @@
-// Grace Zhang
-// 01/14/2021
-// CSE143
-// TA:  Melody Lam
-// Take-home Assessment #1
-// 
 // This program implements a class that creates an inventory
 // to keep track of all the letters in the alphabet.
 
