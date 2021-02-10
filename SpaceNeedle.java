@@ -1,8 +1,4 @@
-// CSE142
-// Take-home Assessment #2
-// 
 // This program will print out the space needle in varying sizes
-
 
 public class SpaceNeedle {
 	public static final int SIZE = 4;
