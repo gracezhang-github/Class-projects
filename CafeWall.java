@@ -1,7 +1,3 @@
-// Grace Zhang
-// CSE142
-// Take-home Assessment #3
-// 
 // This program will produce an image that demonstrates the Café
 // Wall illusion. 
 
