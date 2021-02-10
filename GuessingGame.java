@@ -1,8 +1,4 @@
-// 11/02/2020
-// CSE142
-// Take-home Assessment #5
-// 
-// This program allows the user to play a game in
+ // This program allows the user to play a game in
 // which the program thinks of a random integer
 // and accepts guesses from the user until the user
 // guesses the number correct.
