@@ -1,7 +1,3 @@
-// 10/25/2020
-// CSE142
-// Take-home Assessment #4
-// 
 // This program will create budgeter method where it prompts 
 // a person for income and expense amounts, then calculates their
 // net monthly income.
