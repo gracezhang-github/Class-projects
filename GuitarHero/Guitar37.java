@@ -1,9 +1,3 @@
-// Grace Zhang
-// 01/20/2021
-// CSE143
-// TA:  Melody Lam
-// Take-home Assessment #2
-// 
 // This program is a different implementation of the Guitar interface,
 // this will model a guitar with 37 different strings.
 
